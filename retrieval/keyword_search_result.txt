@@ -1,0 +1,18 @@
+(.venv) PS D:\practise\rag-lab-Module3> python test_retrival.py
+
+--- Result 1 ---
+Content: Effects of Deforestation
+Deforestation has had many adverse effects on the planet. Significant effects of deforestation
+are climate change, soil erosion, global warming (https://byjus.com/kids-learning/global-
+warming-essay/), wildlife extinction and underground water depletion. Besides, there are other
+consequences such as flooding, shrinking wildlife habitats, and reduced water quality. The
+essay on deforestation explains the negative effects of deforestation on the Earth.
+The decrease in trees and vegetation can lead to an increase in the emission of greenhouse
+gases and other forms of pollution. Moreover, trees are essential and provide habitats for
+countless species, and they lose their habitats because of these human activities. They also
+store large amounts of carbon that can be used as a renewable energy source. When forests
+are destroyed, carbon is released into the atmosphere, contributing to climate change and
+global warming.
+Document: deforestation.pdf
+Page: 2
+(.venv) PS D:\practise\rag-lab-Module3> 

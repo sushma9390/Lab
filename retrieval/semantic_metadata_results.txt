@@ -1,0 +1,78 @@
+python test_retrival.py
+
+--- Result 1 ---
+Content: Effects of Deforestation
+Deforestation has had many adverse effects on the planet. Significant effects of deforestation
+are climate change, soil erosion, global warming (https://byjus.com/kids-learning/global-
+warming-essay/), wildlife extinction and underground water depletion. Besides, there are other
+consequences such as flooding, shrinking wildlife habitats, and reduced water quality. The
+essay on deforestation explains the negative effects of deforestation on the Earth.
+The decrease in trees and vegetation can lead to an increase in the emission of greenhouse
+gases and other forms of pollution. Moreover, trees are essential and provide habitats for
+countless species, and they lose their habitats because of these human activities. They also
+store large amounts of carbon that can be used as a renewable energy source. When forests
+are destroyed, carbon is released into the atmosphere, contributing to climate change and
+global warming.
+Document: deforestation.pdf
+Page: 2
+Score: 0.68191105
+
+--- Result 2 ---
+Content: Deforestation is cutting down a large number of trees and clearing out forest areas. The various
+reasons behind these human activities are increasing the space for human usage like logging
+or wood extraction, agricultural expansion, infrastructure expansion etc. Deforestation is
+harmful to the environment (https://byjus.com/kids-learning/environment-essay/) because it
+causes a lot of carbon emissions and alters the natural ecosystem. It also contributes to global
+warming and climate change because plants release the stored carbon into the atmosphere
+as carbon dioxide when they are cutting down. The deforestation essay urges us to learn the
+causes, effects and preventive measures of deforestation.
+Deforestation is a severe problem, and we must stop cutting down precious trees. Trees are
+destroyed to make way for urban development and the cultivation of crops. To expand the land
+area and construct buildings, production houses and manufacturing plants, we are cutting
+Document: deforestation.pdf
+Page: 1
+Score: 0.64694154
+
+--- Result 3 ---
+Content: destroyed to make way for urban development and the cultivation of crops. To expand the land
+area and construct buildings, production houses and manufacturing plants, we are cutting
+down trees, and the government is trying its best to avoid deforestation. The process of
+deforestation also increases the atmospheric level of carbon dioxide that contributes to
+climate change on the planet. Once the kids have understood the causes and effects of this
+issue, you can engage them in writing an essay on deforestation by referring to BYJU’S
+deforestation essay pdf.
+Table of Contents
+Causes of Deforestation
+Effects of Deforestation
+Preventive Measures to Avoid Deforestation
+Causes of Deforestation
+Deforestation is a global phenomenon, and one of the leading causes of deforestation is the
+expansion of cities. People want to live in cities, but they often don’t realise how dangerous this
+can be to the environment and contributes to environmental pollution
+Document: deforestation.pdf
+Page: 1
+Score: 0.6206005
+
+--- Result 4 ---
+Content: resolving the after-effects of the loss of trees. In addition, we can start growing plants at home
+and help our environment heal from the loss of trees and forests (https://byjus.com/kids-
+learning/forest-essay/).
+To conclude, deforestation is a major concern. Hence, we all must join hands in eradicating this
+issue and help our planet retain its ability to thrive. Provide the little ones with a deforestation
+essay pdf, and for more kids learning (https://byjus.com/kids-learning/) activities, visit BYJU’S
+website.
+Comments
+Leave a Comment
+Your Mobile number and Email id will not be published. Required fields are marked *
+*
+Mobile Number Send OTP
+10/25/26, 10:35 AM byjus.com/kids-learning/deforestation-essay/
+https://byjus.com/kids-learning/deforestation-essay/ 2/4
+Document: deforestation.pdf
+Page: 2
+Score: 0.5826727
+
+---when document title was - deforestation .py
+But when we change the doc title to noise.py there are no results for this pdf so we got empty--below
+(.venv) PS D:\practise\rag-lab-Module3> python test_retrival.py
+(.venv) PS D:\practise\rag-lab-Module3> 
